@@ -1,7 +1,0 @@
-config:
-  framework: "foundry" 
-  package_manager: "forge"
-
-tasks:
-  install-dependencies:
-    - forge install
